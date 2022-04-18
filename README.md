@@ -1,4 +1,4 @@
-# simulated-annealing-salesman-russia
+# Simulated Annealing and Travelling Salesman Problem
 This is the solution to assignment 3 of STDSR at Innopolis University.
 
 Author: Artem Bakhanov ([email](mailto:a.bahanov@innopolis.university))
